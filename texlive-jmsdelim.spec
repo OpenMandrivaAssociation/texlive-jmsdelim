@@ -1,6 +1,6 @@
 Name:		texlive-jmsdelim
 Version:	62630
-Release:	1
+Release:	2
 Summary:	A package for compositional delimiter sizing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jmsdelim
